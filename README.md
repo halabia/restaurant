@@ -1,1 +1,3 @@
-# restaurant
+# Restaurant
+
+Tabulated restaurant webpage which uses webpack.
