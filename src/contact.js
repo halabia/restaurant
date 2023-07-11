@@ -1,4 +1,6 @@
 export function contact() {
+    document.getElementById('content').innerHTML = "";
+
     var div = document.getElementById('content');
     var header = document.createElement('h1');
     header.style.color = 'black';
